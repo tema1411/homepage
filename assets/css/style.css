@@ -1039,6 +1039,7 @@ footer {
 }
 /* base.css */
 
+/* сustom.css */
 .avatar {
     max-width: 100%;
     -o-object-fit: contain;
@@ -1052,4 +1053,14 @@ footer {
 .contacts li a.instagram:hover {
     color: #EB4456;
 }
+
+.contacts li a {
+    padding: 16px 0;
+}
+
+.job {
+    margin-bottom: 20px;
+}
+/* сustom.css */
+
 
