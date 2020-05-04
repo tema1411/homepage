@@ -1,0 +1,14 @@
+.avatar {
+    max-width: 100%;
+    -o-object-fit: contain;
+    object-fit: contain;
+}
+
+.contacts li a.twitter:hover {
+    color: #3FA6DB;
+}
+
+.contacts li a.instagram:hover {
+    color: #EB4456;
+}
+
